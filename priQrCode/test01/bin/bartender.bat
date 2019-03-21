@@ -1,0 +1,1 @@
+start "" "C:\Program Files\Seagull\BarTender Suite\bartend.exe" /F=D:\QT\yuan\test01\test01\bin\1.btw /P /X

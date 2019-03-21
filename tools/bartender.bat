@@ -1,0 +1,1 @@
+"C:\Program Files\Seagull\BarTender Suite\bartend.exe" /F=D:\dxmf\1.btw /P /C=2
